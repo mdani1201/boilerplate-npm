@@ -3,6 +3,7 @@
 	"author": "Daniel_Molnar",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp", "project", "onboarding"],
+	"license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
